@@ -1,0 +1,13 @@
+streamlit == 1.52.2  # latest stable around early 2026
+pdfplumber == 0.11.8  # most recent release
+langchain == 1.2.0  # latest stable release on PyPI (Feb 6 2026) :contentReference[oaicite:0]{index=0}
+langchain-openai == 1.1.6  # newest integration package (Feb 10 2026) :contentReference[oaicite:1]{index=1}
+langchain-community == 0.4.1  # community package (still around this in late 2025)
+langchain-core == 1.2.5  # matches main langchain core
+langchain-text-splitters == 1.1.0  # latest splitters utility :contentReference[oaicite:2]{index=2}
+openai==2.14.0  # latest major (renamed from 2.x series)
+faiss-cpu>=1.13.2  # CPU-only FAISS latest wheels
+tiktoken==0.12.0  # newer tokeniser version
+
+
+python-docx
